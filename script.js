@@ -539,7 +539,7 @@ class TerminalResume {
         "#888888"
       ) +
       this.wrapWithColor(
-        "         Software Engineer • Cloud Architect • Tech Lead\n",
+        "         Website Penetration • Cloud Architect\n",
         "#666666"
       ) +
       this.wrapWithColor(divider + "\n\n", "#555555") +
@@ -665,7 +665,7 @@ ${this.wrapWithColor(
 
 ${this.wrapWithColor("⚡ Experience", "#ff8c00")}
 ${this.wrapWithColor(
-  "   Building scalable and efficient software solutions using",
+  "   Building scalable and efficient Website solutions using",
   "#ffffff"
 )}
 ${this.wrapWithColor("   React, JavaScript, and Google Cloud", "#ff8c00")}
@@ -815,9 +815,9 @@ ${this.wrapWithColor("Technologies used:", "#00ffff")} ${this.wrapWithColor(
       "#87cefa"
     )}
 
-<span style="color: #00ffff;">RITECH SOLUTIONS | Senior Software Engineer</span>
+<span style="color: #00ffff;">Senior Website Penetration</span>
 ${this.wrapWithColor(
-  "Jul 2018 – Jul 2020 | Tirana, Albania | 100-150 employees",
+  "Jul 2025 – Jul 2026 | Jakarta Pusat, Indonesia",
   "#ffffff"
 )}
 
@@ -826,36 +826,17 @@ ${this.wrapWithColor(
       "#ffffff"
     )}
 • ${this.wrapWithColor("Tech interviewer", "#ffa07a")} - ${this.wrapWithColor(
-      "Interview potential candidates.",
-      "#ffffff"
-    )}
-• ${this.wrapWithColor("Microsoft project", "#ffa07a")} - ${this.wrapWithColor(
-      "IOT marketing project in every Microsoft store.",
+      "Interview potential.",
       "#ffffff"
     )}
 • ${this.wrapWithColor("Fullstack engineer", "#ffa07a")} - ${this.wrapWithColor(
       "Wrote and reviewed code for big projects.",
       "#ffffff"
     )}
-• ${this.wrapWithColor(
-      "AppriseMobile Tech Lead",
-      "#ffa07a"
-    )} - ${this.wrapWithColor(
-      "CRM for Toyota and corporates in USA",
-      "#ffffff"
-    )}
-
 ${this.wrapWithColor("Technologies used:", "#00ffff")} ${this.wrapWithColor(
       "JavaScript, Python, pandas, NodeJs, ReactJS, Chai, Sinon, Mocha, ES6, ElasticSearch, Redis, Nginx, Gulp, JIRA, Docker, Azure, AWS, MongoDB",
       "#87cefa"
     )}
-
-<span style="color: #00ffff;">GUTENBERG TECHNOLOGY | Software Engineering</span>
-${this.wrapWithColor(
-  "Feb 2017 – Aug 2018 | Paris, France | 50-100 employees",
-  "#ffffff"
-)}
-
 • ${this.wrapWithColor(
       "Fullstack developer",
       "#ffa07a"
@@ -884,18 +865,8 @@ ${this.wrapWithColor("Technologies used:", "#00ffff")} ${this.wrapWithColor(
       "#87cefa"
     )}
 
-<span style="color: #00ffff;">GROUP OF COMPANIES | Software Engineer</span>
-${this.wrapWithColor(
-  "Mar 2015 – Feb 2017 | Tirana, Albania | 5-30 employees",
-  "#ffffff"
-)}
-
-• ${this.wrapWithColor("Software developer", "#ffa07a")} - ${this.wrapWithColor(
+• ${this.wrapWithColor("Website developer", "#ffa07a")} - ${this.wrapWithColor(
       "Developed web and native projects",
-      "#ffffff"
-    )}
-• ${this.wrapWithColor("Bar management app", "#ffa07a")} - ${this.wrapWithColor(
-      "Developed app for bar/restaurant management.",
       "#ffffff"
     )}
 • ${this.wrapWithColor(
@@ -903,10 +874,6 @@ ${this.wrapWithColor(
       "#ffa07a"
     )} - ${this.wrapWithColor(
       "Optimised aggregation from 11h to 1h",
-      "#ffffff"
-    )}
-• ${this.wrapWithColor("UKD developer", "#ffa07a")} - ${this.wrapWithColor(
-      "Water supply billing process for Albania, Government project",
       "#ffffff"
     )}
 
@@ -955,7 +922,7 @@ ${this.wrapWithColor(
   "#ff8c00"
 )}
 ${this.wrapWithColor("│", "#ff8c00")}${this.wrapWithColor(
-      " Foundation of my software engineering journey ",
+      " Foundation of my Website Penetration journey ",
       "#ffffff"
     )}${this.wrapWithColor("│", "#ff8c00")}
 ${this.wrapWithColor(
@@ -1025,7 +992,7 @@ ${this.wrapWithColor("🌐", "#ff8c00")}  ${this.wrapWithColor(
       "Website:",
       "#ff8c00"
     )} ${this.wrapWithColor(
-      '<a href="https://marjoballabani.me" target="_blank" style="color: #ffffff; text-decoration: none;">marjoballabani.me</a>',
+      '<a href="https://xsociety.web.id" target="_blank" style="color: #ffffff; text-decoration: none;">xsociety.web.id</a>',
       "#ffffff"
     )}
 
@@ -1033,15 +1000,15 @@ ${this.wrapWithColor("⚡", "#ff8c00")}  ${this.wrapWithColor(
       "Github:",
       "#ff8c00"
     )} ${this.wrapWithColor(
-      '<a href="https://github.com/marjoballabani" target="_blank" style="color: #ffffff; text-decoration: none;">github.com/marjoballabani</a>',
+      '<a href="https://github.com/marjoballabani" target="_blank" style="color: #ffffff; text-decoration: none;">github.com/polinghasilum4-cpu</a>',
       "#ffffff"
     )}
 
 ${this.wrapWithColor("💼", "#ff8c00")}  ${this.wrapWithColor(
-      "LinkedIn:",
+      "Tiktok:",
       "#ff8c00"
     )} ${this.wrapWithColor(
-      '<a href="https://linkedin.com/in/marjo-ballabani" target="_blank" style="color: #ffffff; text-decoration: none;">linkedin.com/in/marjo-ballabani</a>',
+      '<a href="https://tiktok.com/xprimesociety" target="_blank" style="color: #ffffff; text-decoration: none;">tiktok.com/xsociety</a>',
       "#ffffff"
     )}
 
